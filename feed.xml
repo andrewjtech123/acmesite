@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acme Developers Site</title>
+    <description></description>
+    <link>http://thisisandrewjohnston.com/documentation-theme-jekyll/developer/</link>
+    <atom:link href="http://thisisandrewjohnston.com/documentation-theme-jekyll/developer/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 27 May 2015 21:46:38 -0400</pubDate>
+    <lastBuildDate>Wed, 27 May 2015 21:46:38 -0400</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+  </channel>
+</rss>
