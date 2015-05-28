@@ -11,10 +11,10 @@ version: 2.0
 tagline: Guide for developers
 
 # the base hostname & protocol for your site (everything at the .com or .org and before)
-url: "http://thisisandrewjohnston.com"
+url: "http://andrewjtech123.github.io/acmesite/"
 
 # the subpath of your site. If you're publishing to the root directory, just type "". Usually set this as your project name.
-baseurl: "/documentation-theme-jekyll/developer"
+baseurl: "/acmesite"
 
 # this is how you will preview the site on your local machine. leave as is.
 host: 127.0.0.1
