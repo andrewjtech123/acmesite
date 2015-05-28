@@ -3,10 +3,10 @@
   <channel>
     <title>Acme Developers Site</title>
     <description></description>
-    <link>http://thisisandrewjohnston.com/documentation-theme-jekyll/developer/</link>
-    <atom:link href="http://thisisandrewjohnston.com/documentation-theme-jekyll/developer/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 May 2015 21:46:38 -0400</pubDate>
-    <lastBuildDate>Wed, 27 May 2015 21:46:38 -0400</lastBuildDate>
+    <link>http://andrewjtech123.github.io/acmesite//acmesite/</link>
+    <atom:link href="http://andrewjtech123.github.io/acmesite//acmesite/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 27 May 2015 22:17:47 -0400</pubDate>
+    <lastBuildDate>Wed, 27 May 2015 22:17:47 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
   </channel>

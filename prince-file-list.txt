@@ -13,29 +13,29 @@
               
                       
                          
-                            http://thisisandrewjohnston.com/documentation-theme-jekyll/developer/titlepage/index.html
+                            http://andrewjtech123.github.io/acmesite//acmesite/titlepage/index.html
                                   
                         
                      
                          
                      
                          
-                            http://thisisandrewjohnston.com/documentation-theme-jekyll/developer/HangIt_Developer_API_Intro/index.html
+                            http://andrewjtech123.github.io/acmesite//acmesite/HangIt_Developer_API_Intro/index.html
                                   
                         
                      
                          
-                            http://thisisandrewjohnston.com/documentation-theme-jekyll/developer/HangIt_Developer_API_Objects/index.html
+                            http://andrewjtech123.github.io/acmesite//acmesite/HangIt_Developer_API_Objects/index.html
                                   
                         
                      
                          
-                            http://thisisandrewjohnston.com/documentation-theme-jekyll/developer/HangIt_Developer_API_Reference/index.html
+                            http://andrewjtech123.github.io/acmesite//acmesite/HangIt_Developer_API_Reference/index.html
                                   
                         
                      
                          
-                            http://thisisandrewjohnston.com/documentation-theme-jekyll/developer/HangIt_Developer_API_Tutorial/index.html
+                            http://andrewjtech123.github.io/acmesite//acmesite/HangIt_Developer_API_Tutorial/index.html
                                   
                         
                      
